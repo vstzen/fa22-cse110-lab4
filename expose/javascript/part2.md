@@ -20,7 +20,7 @@ Line 13 will throw an error because the discountedPrice variable was declared wi
 Line 14 will print out 150 because finalPrice ends up storing the rounded discount price of the last item in the prices array when the loop terminates. There is no error because finalPrice was declared with "let" in the function block, so it has function scope.
 
 ## 8
-This function will return a list containing the discounted prices of all the prices in the input prices variable. This is because the function loops through each value in the provided array, applies the discount, and appends it to the output array.
+This function will return a list containing [50, 100, 150], the discounted prices of all the prices in the input prices variable. This is because the function loops through each value in the provided array, applies the discount, and appends it to the output array.
 
 ## 9
 Line 11 will throw an error because the i variable was declared with "let" inside the loop block, so it can only be accessed inside the loop block.
