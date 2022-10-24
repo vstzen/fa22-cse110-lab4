@@ -78,6 +78,9 @@ True, the Boolean() constructor creates a True boolean object if the input param
 ## 15
 Triple equals does not perform type conversions, while double equals does.
 
+## 17
+The result will be [2,4,6], because the function modifyArray iterates through the input array and uses the callback function to multiply each element by 2.
+
 ## 19
 1
 4
