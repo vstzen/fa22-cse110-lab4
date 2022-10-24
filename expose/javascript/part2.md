@@ -29,7 +29,7 @@ Line 11 will throw an error because the i variable was declared with "let" insid
 Line 12 will print 3 because the length constant is set to the length of the prices input array.
 
 ## 11
-This function will return a list containing the discounted prices of all the prices in the input prices variable. This is because the function loops through each value in the provided array, applies the discount, and appends it to the output array.
+This function will return a list [50, 100, 150], containing the discounted prices of all the prices in the input prices variable. This is because the function loops through each value in the provided array, applies the discount, and appends it to the output array.
 
 ## 12
 ### A
